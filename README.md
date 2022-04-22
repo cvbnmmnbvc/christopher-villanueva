@@ -29,7 +29,7 @@ villanueva Espinoza
 Correo: 
 christopher.villanue@utec.edu.pe
 Edad:
-17 años 
+17 años .
 Profesion:
 Cs
 Nivel:
